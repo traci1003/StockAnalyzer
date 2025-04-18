@@ -58,3 +58,20 @@ git clone https://github.com/traci1003/your-repo-name.git
 cd your-repo-name
 pip install -r requirements.txt
 streamlit run app.py
+## 🚀 Live Demo
+
+👉 Try the app here: [https://your-app-url.replit.app](https://your-app-url.replit.app)
+## 📸 Screenshots
+
+| AI Screener | Sentiment Dashboard | Gamification |
+|-------------|---------------------|---------------|
+| ![screener](assets/screener.png) | ![sentiment](assets/sentiment.png) | ![gamify](assets/gamify.png) |
+## 🛠️ How to Run Locally
+## 🛠️ How to Run Locally
+
+```bash
+git clone https://github.com/traci1003/StockAnalyzer.git
+cd StockAnalyzer
+pip install -r requirements.txt
+streamlit run main.py
+
