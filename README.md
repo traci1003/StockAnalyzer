@@ -63,11 +63,7 @@ streamlit run app.py
 👉 Try the app here: [https://your-app-url.replit.app](https://your-app-url.replit.app)
 ## 📸 Screenshots
 
-| AI Screener | Sentiment Dashboard | Gamification |
-|-------------|---------------------|---------------|
-| ![screener](assets/screener.png) | ![sentiment](assets/sentiment.png) | ![gamify](assets/gamify.png) |
-## 🛠️ How to Run Locally
-## 🛠️ How to Run Locally
+
 
 ```bash
 git clone https://github.com/traci1003/StockAnalyzer.git
