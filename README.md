@@ -41,15 +41,7 @@ A full-stack, AI-enhanced stock research platform that combines intelligent stoc
 
 ---
 
-## 📸 Screenshots
 
-| AI Screener | Sentiment Dashboard | Gamification |
-|-------------|---------------------|---------------|
-| ![AI Screener](link-to-screenshot) | ![Sentiment](link-to-screenshot) | ![Gamification](link-to-screenshot) |
-
-> Add screenshots here from your app (or I can help you generate some clean ones)
-
----
 
 ## ⚙️ Local Development
 
