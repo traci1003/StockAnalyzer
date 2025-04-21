@@ -4,7 +4,7 @@ A full-stack, AI-enhanced stock research platform that combines intelligent stoc
 
 > ⚡ Built with love by [Traci Davis](https://www.linkedin.com/in/traci-davis-23502235a/)  
 > 💸 Goal: Scale this to a $50M fintech startup
-
+https://stock-analyzer-traci1003.replit.app/
 ---
 
 ## 🚀 Features
